@@ -1,0 +1,8 @@
+pandas==2.2.2
+xlrd==2.0.1
+openpyxl==3.1.4
+pymongo==4.7.3
+streamlit==1.35.0
+numpy==1.26.4
+streamlit-shadcn-ui==0.1.18
+plotly==5.22.0
